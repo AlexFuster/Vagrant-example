@@ -5,7 +5,7 @@ Deployment and provision of ipa server and clients with Vagrant.
 
   Creation of a "large" VM,
   Provission:
-      Insatall necesary packages
+      Insatall necesary packages\n
       Install ipa-server
       Create 8 users
       
